@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\efcore-db-mysql.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eFpnG9mUC8ew7mBpYMpNw8ay+6fYgi2J7xxkMDhalnU=",
+  "Source": "efcore-db-mysql",
+  "BasePath": "_content/efcore-db-mysql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
